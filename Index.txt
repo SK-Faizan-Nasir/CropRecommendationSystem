@@ -1,0 +1,1 @@
+This project recommends which crops to install as per the current scenario.
